@@ -1,2 +1,2 @@
-# soluciones-curso-bash
-Repo para las soluciones de mi curso de bash en https://bash.rafadp.es
+# Explicación y soluciones de las evaluaciones de los módulos del curso de bash
+Playlist de mi canal de youtube: https://www.youtube.com/playlist?list=PLmyzNOcGVn24gv83lF8x5vr1BXlOl9M_x
