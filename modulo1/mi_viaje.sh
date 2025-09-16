@@ -2,5 +2,6 @@
 
 #Muestro mi nombre
 echo "Rafa"
-#Crea una carpeta lamada viaje
+
+#Creo una carpeta llamada viaje
 mkdir viaje
